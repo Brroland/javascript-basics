@@ -15,6 +15,6 @@ const separate = (src) => {	// separating into 2 arrays
     odds
   };
 };
-module.exports {
+module.exports = {
 	separate
 }
