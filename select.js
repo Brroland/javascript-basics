@@ -8,6 +8,6 @@ const selectEvens = (src) => {
   }
   return out;
 };
-module.exports {
+module.exports = {
 	selectEvens
 }
