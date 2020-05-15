@@ -18,7 +18,7 @@ const minArr = (arr) => {       // minimum
   return min;
 };
 
-module.exports {
+module.exports = {
 	max : maxArr,
 	min : minArr
 }
