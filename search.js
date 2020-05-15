@@ -6,3 +6,6 @@ const indexOfArray = (arr, element) => {	// searching in an array
   }
   return -1;
 };
+module.exports {
+	sIndex : indexOfArray
+}
