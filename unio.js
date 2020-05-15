@@ -10,6 +10,6 @@ const union = (src1, src2) => {
   }
   return out;
 };
-module.exports {
+module.exports = {
 	union
 }
