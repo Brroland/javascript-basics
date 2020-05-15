@@ -5,6 +5,6 @@ const copy2x = (src, dest) => {
   return dest;
 };
 
-module.exports {
+module.exports = {
 	copy2x
 }
