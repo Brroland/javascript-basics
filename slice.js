@@ -13,6 +13,6 @@ const selection = (src1, src2) => {
   console.log('Lépések', count);
   return out;
 };
-module.exports {
+module.exports = {
 	selection
 }
