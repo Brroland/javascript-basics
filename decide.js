@@ -6,3 +6,6 @@ const containsElement = (arr, element) => {	// decide if the 'element' is exist 
   }
   return false;
 };
+module.exports {
+	decide : containsElement
+}
