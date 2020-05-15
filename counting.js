@@ -8,3 +8,6 @@ const countElement = (arr, element) => {	// development comment for commit
     }
     return count;
 };
+module.exports = {
+	countElement
+}
